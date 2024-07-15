@@ -1,6 +1,6 @@
 ## flux-toolkit
 # Par clusters et par composants
-   # Par composants ( 
+   # Par composants 
    resources:
     - flux-system
     - external-secrets
