@@ -11,10 +11,10 @@ KustomizerController : est un opérateur Kubernetes, spécialisé dans l'exécut
 HelmController : est un opérateur Kubernetes, permettant de gérer de manière déclarative les versions de chartes Helm avec des manifestes Kubernetes. 
 NotificationController : est un opérateur Kubernetes, spécialisé dans la gestion des événements entrants et sortants. pouvant être utilisé pour de l'alerting.
 ci dessous un schéma expliquant leur interactions :
+![image](https://github.com/user-attachments/assets/c49f2566-f229-4e79-890a-2fb22a58884d)
 
+Pour plus d'informations consultez la documentation officielle (https://fluxcd.io/flux/)
 
-
-Pour plus d'informations consultez la documentation officielle
 # Par clusters et par composants
    # Par composants 
    resources:
