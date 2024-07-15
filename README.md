@@ -1,6 +1,7 @@
 ## flux-toolkit
-Par clusters 
-   # Par composants ( resources:
+# Par clusters et par composants
+   # Par composants ( 
+   resources:
     - flux-system
     - external-secrets
     - rbac-reconciler
